@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ComposeUI</string>
+
+    <string name="label_enter_username">Enter Username</string>
+    <string name="label_enter_password">Enter Password</string>
+    <string name="label_remember_me">Remember me</string>
+    <string name="label_login">Login</string>
+    <string name="label_sign_up">Sign Up</string>
+
+</resources>
